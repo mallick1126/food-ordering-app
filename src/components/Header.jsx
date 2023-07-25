@@ -22,7 +22,7 @@ export const Header = () => {
             About
           </Link>
         </div>
-        <div className="flex items-center justify-center space-x-4">
+        <div className="flex items-center justify-center space-x-8 ">
           <Link to="/cart">
             <img src={cartIcon} alt="cart" />
           </Link>
